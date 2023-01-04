@@ -1,0 +1,4 @@
+﻿  week2_question1.cpp
+D:\Cpp Codes\DAA\week2_question1\week2_question1.cpp(12,9): error C2872: 'count': ambiguous symbol
+D:\Cpp Codes\DAA\week2_question1\week2_question1.cpp(5,5): message : could be 'int count'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xutility(5426,45): message : or       'iterator_traits<_Iter>::difference_type std::count(const _InIt,const _InIt,const _Ty &)'

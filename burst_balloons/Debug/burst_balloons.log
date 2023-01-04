@@ -1,0 +1,4 @@
+﻿  burst_balloons.cpp
+D:\programming_codes\Cpp Codes\burst_balloons\burst_balloons.cpp(23,27): warning C4018: '<': signed/unsigned mismatch
+D:\programming_codes\Cpp Codes\burst_balloons\burst_balloons.cpp(24,37): warning C4018: '<': signed/unsigned mismatch
+  burst_balloons.vcxproj -> D:\programming_codes\Cpp Codes\burst_balloons\Debug\burst_balloons.exe
